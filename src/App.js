@@ -30,7 +30,7 @@ class App extends Component {
         return (
             <Container className="App">
                 <header className="App-header">
-                    <h1 className="App-title">黑马众筹</h1>
+                    <h1 className="App-title">Fetish-Option</h1>
                     <img src="https://api.gushi.ci/all.svg" alt="poem"/>
                     <br/>
                     <br/>
