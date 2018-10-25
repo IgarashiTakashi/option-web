@@ -4,8 +4,8 @@ const compileContracts = require('./compile');
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
 
-let mnemonic = 'hidden oppose around lion adult message prosper earth october grocery twist symbol';
-const provider = new HDWalletProvider(mnemonic,'https://rinkeby.infura.io/v3/82a59ec1db144c82873d6a0f937e4d4a');
+let mnemonic = 'sick melt process unable spawn injury vacuum brown art judge dad venture';
+const provider = new HDWalletProvider(mnemonic,'https://rinkeby.infura.io/v3/83988f562aa947b08d85a833cdc520c5');
 
 const web3 = new Web3(provider);
 
